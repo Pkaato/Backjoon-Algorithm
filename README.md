@@ -9,6 +9,8 @@ Tool：Vscode
 アルゴリズム問題段階別学習
 URL : https://www.acmicpc.net/
 
+Open vscode : command + shift + a
+
 実行方法
 Run : F5, Ctrl + F5
 Debug : Ctrl + F11
